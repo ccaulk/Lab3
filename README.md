@@ -7,3 +7,4 @@ Bill Black
 Force Error
 Neo Rieck
 
+Our project is a website for skiiers and snowbaorders!

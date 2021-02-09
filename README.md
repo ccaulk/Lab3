@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # Lab3
-Caleb Caulk
+Caleb Caulk  
+editing
+Bill Black
+

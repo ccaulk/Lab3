@@ -6,4 +6,5 @@ editing
 Bill Black
 Force Error
 Neo Rieck
-
+We are making a ski and snowboard app.
+It will help riders track their stats and plan their trips.
